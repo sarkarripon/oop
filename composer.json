@@ -1,0 +1,18 @@
+{
+    "name": "sarkarripon/ooppractice",
+    "description": "nothing special",
+    "type": "project",
+    "license": "ripon",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ripon"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
